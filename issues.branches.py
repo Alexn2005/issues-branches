@@ -5,3 +5,4 @@ d = 2
 e = 6
 print(a + b + c + d + e)
 print(a - b - c - d - e)
+print(a - b - c - d - e)
